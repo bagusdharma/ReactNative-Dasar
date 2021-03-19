@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bagus",
+      "email": "bagus@mail.com",
+      "bidang": "Mobile Dev"
+    },
+    {
+      "name": "melda",
+      "email": "melda@mail.com",
+      "bidang": "apt",
+      "id": 3
+    },
+    {
+      "name": "dharma",
+      "email": "dharma@mail.com",
+      "bidang": "dev",
+      "id": 4
+    }
+  ]
+}
